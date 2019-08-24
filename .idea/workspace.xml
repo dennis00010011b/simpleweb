@@ -110,8 +110,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="314" />
-    <option name="y" value="26" />
+    <option name="x" value="180" />
+    <option name="y" value="23" />
     <option name="width" value="1217" />
     <option name="height" value="806" />
   </component>
@@ -337,7 +337,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$PROJECT_DIR$/../.." />
+      <path value="$USER_HOME$" />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
